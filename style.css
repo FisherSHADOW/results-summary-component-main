@@ -2,10 +2,26 @@
     margin: 0;
     padding: 0;
 }
+@font-face {
+    font-family: xbold;
+    src: url(./assets/fonts/HankenGrotesk-Bold.ttf);
+}
+@font-face {
+    font-family: xxterabold;
+    src: url(./assets/fonts/HankenGrotesk-ExtraBold.ttf);
+}
+@font-face {
+    font-family: xmedium;
+    src: url(./assets/fonts/HankenGrotesk-Medium.ttf);
+}
+@font-face {
+    font-family: xregular;
+    src: url(./assets/fonts/HankenGrotesk-VariableFont_wght.ttf);
+}
 body{
     width: 100%;
     height: 100vh;
-    background-color: rgb(255, 255, 255);   
+    background-color: rgb(255, 255, 255); 
 }
 .container{
     position: absolute;
@@ -27,12 +43,53 @@ body{
 }
 .counter{
     position: absolute;
-    width: 160px;
-    height: 160px;
+    width: 180px;
+    height: 180px;
     background-color: aquamarine;
     border-radius: 50%;
     top: 95px;
     bottom: 25px;
-    left: 84px;
+    left: 70px;
     right: 0px;
 }
+.title{
+    font-family: xbold;
+    font-size: 25px;
+    position: absolute;
+    left: 95px;
+    right: 38px;
+    top: 32px;
+}
+.counter-text1{
+    font-family: xxterabold;
+    font-size: 70px;
+    position: absolute;
+    left: 122px;
+    right: 38px;
+    top: 125px;
+}
+.counter-text2{
+    font-family: xxterabold;
+    font-size: 18px;
+    position: absolute;
+    left: 135px;
+    right: 46px;
+    top: 207px;
+}
+.value{
+    font-family: xxterabold;
+    font-size: 30px;
+    position: absolute;
+    left: 120px;
+    right: 46px;
+    top: 295px;
+}
+.info{
+    font-family: xmedium;
+    font-size: 18px;
+    position: absolute;
+    text-align: center;
+    top: 340px;
+    left: 35px;
+}
+
