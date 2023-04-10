@@ -272,5 +272,22 @@ h1{
     border: 1px solid rgb(36,33,202);
     color: white;
 }
+.attribution {
 
-
+    font-size: 16px;
+    font-family: xbold;
+    color: hsl(0, 0%, 24%);
+    margin-bottom: -500px;
+    position: absolute;
+    top:1000px;
+    left:790px
+    
+}
+.attribution a{
+    color: hsla(244, 90%, 61%, 0.76);
+    text-decoration: none;
+}
+.creator-link{
+    color:rgb(0, 136, 255);
+    text-decoration: none;
+}
