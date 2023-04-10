@@ -1,15 +1,16 @@
 # Frontend Mentor - nft preview card component main
 
-This is a solution to the [results summary component main](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [results summary component main](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
-  - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Built with](#built-with)
-  - [Author](#author) 
+- [Overview](#overview)
+- [The challenge](#the-challenge)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [Built with](#built-with)
+- [Author](#author)
+
 ## Overview
 
 ### The challenge
@@ -21,7 +22,6 @@ Users should be able to:
 ### Screenshot
 
 ![](./assets/design/Screenshots.jpg)
-
 
 ### Links
 
@@ -36,4 +36,5 @@ Users should be able to:
 - Adobe Photoshop
 
 ## Author
+
 - Frontend Mentor - [@FisherSHADOW](https://www.frontendmentor.io/profile/FisherSHADOW)
