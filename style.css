@@ -25,7 +25,7 @@ body{
 }
 .container{
     position: absolute;
-    width: 700px;
+    width: 650px;
     height: 450px;
     background-color: rgb(219, 178, 116);
     left: 32%;
@@ -92,4 +92,71 @@ body{
     top: 340px;
     left: 35px;
 }
+/* right side boxes */
 
+.box-container{
+    position: absolute;
+    width: 320px;
+    height: 450px;
+    background-color: rgb(37, 56, 50);
+    left: 330px;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.box1{
+    width:250px;
+    height: 55px;
+    background-color: rgb(255, 136, 0);
+    margin-top: 82px;
+
+}
+.box2{
+    width:250px;
+    height: 55px;
+    background-color: rgb(167, 92, 236);
+    margin-top: 20px;
+}
+.box3{
+    width:250px;
+    height: 55px;
+    background-color: rgb(226, 43, 119);
+    margin-top: 20px;
+}
+.box4{
+    width:250px;
+    height: 55px;
+    background-color: rgb(43, 46, 226);
+    margin-top: 20px;
+}
+.icon1{
+    position: absolute;
+    width: 25px;
+    height: auto;
+    left: 50px;
+    top: 100px;
+
+}
+.icon2{
+    position: absolute;
+    width: 25px;
+    height: auto;
+    left: 50px;
+    top: 175px;
+    
+}
+.icon3{
+    position: absolute;
+    width: 25px;
+    height: auto;
+    left: 50px;
+    top: 250px;
+}
+.icon4{
+    position: absolute;
+    width: 25px;
+    height: auto;
+    left: 50px;
+    top:325px;
+}
