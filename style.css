@@ -178,7 +178,6 @@ body{
     left: 75px;
     top: 100px;
     color: hsl(0, 100%, 67%);
-
 }
 .text2{
     position: absolute;
@@ -242,6 +241,7 @@ h1{
     position: absolute;
     top: 32px;
     left: 32px;
+    color: hsl(224, 30%, 27%);
 }
 /* button */
 .btn-left{
@@ -261,7 +261,6 @@ h1{
     position: absolute;
     left: 370px;
     top: 385px;
-    
 }
 .btn-left:hover{
     transition : 2ms;
@@ -273,7 +272,6 @@ h1{
     color: white;
 }
 .attribution {
-
     font-size: 16px;
     font-family: xbold;
     color: hsl(0, 0%, 24%);
@@ -281,7 +279,6 @@ h1{
     position: absolute;
     top:1000px;
     left:790px
-    
 }
 .attribution a{
     color: hsla(244, 90%, 61%, 0.76);
