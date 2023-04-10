@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [click to see solution page]()
-- Live Site URL: [click to see live site]()
+- Solution URL: [click to see solution page](https://www.frontendmentor.io/solutions/results-summary-component-main-solved-with-htmlcss-w-IK0W6TYl)
+- Live Site URL: [click to see live site](https://fishershadow.github.io/results-summary-component-main/)
 
 ### Built with
 
